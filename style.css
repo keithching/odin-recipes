@@ -1,0 +1,30 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+.title {
+    color: blue;
+}
+
+h2 {
+    color: rgb(83, 0, 0);
+}
+
+p, ul, ol {
+    color: rgb(88, 88, 88);
+}
+
+ul .highlight {
+    background-color: yellow;
+}
+
+ol .highlight {
+    background-color: green;
+    color: white;
+}
+
+#unique {
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+}
